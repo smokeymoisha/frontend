@@ -1,0 +1,36 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  width: 30%;
+  margin: auto;
+  
+}
+
+header {
+  text-align: center;
+}
+
+.clickable {
+  border: none;
+  padding: 7px;
+  background-color: rgb(219, 218, 218);
+  margin: 10px;
+}
+
+.item-element {
+  margin: 7px;
+}
+
+.item-element label {
+  background-color: rgb(247, 247, 247);
+  display: inline-block;
+  width: 70px;
+  padding: 7px;
+}
+
+.item-button {
+  padding: 2px;
+  margin: 7px;
+}
